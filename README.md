@@ -2,6 +2,10 @@
 
 나도 최강 개발자가 될 수 있을까?
 
+- 심리학을 전공했지만 개발자가 하고 싶어..!
+- 2024 SSAFY로 개발 인생 시작!(앞으로 삼성 제품만 쓰겠어요)
+- SW역량 테스트 A형 취득하고, 개발자 취업 하고 싶다~
+- 백준 가입만 함
 
 <!--
 **dev-yesam/dev-yesam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
