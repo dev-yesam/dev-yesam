@@ -1,4 +1,7 @@
-### Hi there 👋
+### 심리학 전공자의 개발 도전기 ! 
+
+나도 최강 개발자가 될 수 있을까?
+
 
 <!--
 **dev-yesam/dev-yesam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
